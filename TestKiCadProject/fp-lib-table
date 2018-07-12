@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 74HC132N)(type Legacy)(uri ../Additional_Footprints/74HC132N/74HC132N.mod)(options "")(descr ""))
+  (lib (name SN74HC165N)(type Legacy)(uri ../Additional_Footprints/SN74HC165N/SN74HC165N.mod)(options "")(descr ""))
+)
