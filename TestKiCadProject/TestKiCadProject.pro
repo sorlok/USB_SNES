@@ -1,4 +1,4 @@
-update=7/9/2018 7:05:11 PM
+update=Thursday, July 12, 2018 'PMt' 02:39:42 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -71,5 +71,5 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=D:/Programs/kicad-snapeda/SN74HC165N
-LibName34=D:/Programs/kicad-snapeda/74HC132N
+LibName33=../Additional_Footprints/SN74HC165N/SN74HC165N
+LibName34=../Additional_Footprints/74HC132N/74HC132N
